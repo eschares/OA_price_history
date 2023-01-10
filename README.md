@@ -1,5 +1,6 @@
 # publisher-oa-portfolios
-Data collection of publishers' hybrid and fully Open Access journals over time. List originally started by @lmatthia but has not been updated for 3 years.
+Data collection of publishers' hybrid and fully Open Access journals over time. List originally started by @lmatthia but has not been updated in over 2 years. Forked the repository to continue the work.
+
 ### Table of Contents
 * [About](#about)
 * [Where did I get all these numbers from?](#where-did-i-get-all-these-numbers-from)
